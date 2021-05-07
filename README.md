@@ -48,7 +48,7 @@
     * A DELETE request to `/popularBooks` results in an existing record being deleted. The id of the book that will be updated should be in the request itself not the url.
 
 ## Known bugs 
-* Hmmm...
+* 
 
 ## Recomended Next Steps
 * Speed up heroku loading
@@ -62,13 +62,3 @@
 * Allow users to leave reviews and comments + set up moderation capabilities
 * Filter based on all languages the book has been translated to
 * Filter based on copies sold (requires getting not fake data for copies sold)
-
-
-
-# To do list 
-* Make sure website looks fine on mobile
-* Make sure styles work across browsers
-* Adjust CSS so everything looks nice
-* .env setup on Heroku?
-* Find bugs
-* Ask about file structure
